@@ -12,5 +12,9 @@
   "dependencies": {
     "crypto": "0.0.3",
     "xml2json": "^0.6.1"
+  },
+  "repository": {
+  "type": "git",
+  "url": "git://github.com/rohn/node-nanowrimo.git"
   }
 }
