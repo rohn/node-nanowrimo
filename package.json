@@ -1,0 +1,16 @@
+{
+  "name": "nanowrimo",
+  "version": "0.0.1",
+  "description": "Read and update NaNoWriMo word counts from Node.JS",
+  "main": "index.js",
+  "keywords": [
+    "nanowrimo",
+    "nnwm"
+  ],
+  "author": "Rohn Blake <rohn@intensiveporpoises.com> (http://intensiveporpoises.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "0.0.3",
+    "xml2json": "^0.6.1"
+  }
+}
